@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SEEK-Davis-1</title>
+  <!--Ubuntu font-->
+  <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+  <!--bootstrap stylesheet-->
+  <link href="http://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css" rel="stylesheet">
+  <!--custom stylesheet-->
+  <link href="Davis-1.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <div class="nav">
+      <ul class="pull-left">
+        <li><a href="SEEK-Davis-1">HOME</a></li>
+      </ul>
+      <ul class="pull-right">
+        <li><a href="SEEK-Davis-1-Design">Design</a></li>
+        <li><a href="SEEK-Davis-1-Build">Build</a></li>
+        <li>Test</li>
+        <li>Submit to SEEK</li>
+        <li>Help</li>
+      </ul>
+    </div>
+  </div>
+  <div class="container">
+    <div class="main">
+      <!--CHANGE THIS FOR EACH PAGE-->
+      <div class="jumbotron">
+      <h1><b>SEEK</b></h1>
+      <h3><b>The Standardized Enzyme Engineering Knowledgebase</b></h3>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <h2><b>Welcome to SEEK</b></h2>
+    <p>The Standardized Enzyme Engineering Database is a program designed to make Enzyme Engineering accessible.
+        The Goal of this project is to create a Database of the effects of mutations on the Enzymes Beta-Glucosidase.
+        BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH</p>
+  </div>
+  <div class="container">
+    <div class="col-md-4">
+      <h2 align="center">Design</h2>
+      <p>Learn how to design mutations using a program called Foldit</p>
+      <p align="center"><img src="http://wac.450f.edgecastcdn.net/80450F/wzozfm.com/files/2014/03/3-31-foldit-bread-e1396262679109-576x1024.jpg" height="600" width="300"/></p>
+    </div>
+    <div class="col-md-4">
+      <h2 align="center">Build</h2>
+      <p>Learn how to test the mutations in the lab using the 5 day approach</p>
+      <p align="center"><img src="http://www.labdesignnews.com/sites/labdesignnews.com/files/legacyimages/RD/Lab_Design_News/Articles/2009/01/0901stanford_lab.JPEG?n=6474" height="300" width="350"></p>
+    </div>
+    <div class="col-md-4">
+      <h2 align="center">Test</h2>
+      <p>Learn how to analyze and submit the results to SEEK</p>
+      <p align="center"><img src="http://social-metrics.org/wp-content/uploads/2014/02/1072645_98618032.jpg" height="300" width="350"></p>
+    </div>
+  </div>
+</body>
+</html>

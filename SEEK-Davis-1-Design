@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SEEK-Davis-1</title>
+  <!--Ubuntu font-->
+  <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+  <!--bootstrap stylesheet-->
+  <link href="http://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css" rel="stylesheet">
+  <!--custom stylesheet-->
+  <link href="Davis-1.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <div class="nav">
+      <ul class="pull-left">
+        <li><a href="SEEK-Davis-1">HOME</a></li>
+      </ul>
+      <ul class="pull-right">
+        <li><a href="SEEK-Davis-1-Design">Design</a></li>
+        <li><a href="SEEK-Davis-1-Build">Build</a></li>
+        <li>Test</li>
+        <li>Submit to SEEK</li>
+        <li>Help</li>
+      </ul>
+    </div>
+  </div>
+  <div class="container">
+    <div class="design">
+    <!--CHANGE THIS FOR EACH PAGE-->
+      <div class="jumbotron">
+      <h1><b>Design</b></h1>
+      <h3><b>How to design mutant enzymes using Foldit</b></h3>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

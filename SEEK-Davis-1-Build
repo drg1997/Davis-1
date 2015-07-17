@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SEEK-Davis-1</title>
+  <!--Ubuntu font-->
+  <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+  <!--bootstrap stylesheet-->
+  <link href="http://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css" rel="stylesheet">
+  <!--custom stylesheet-->
+  <link href="Davis-1.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <div class="nav">
+      <ul class="pull-left">
+        <li><a href="SEEK-Davis-1">HOME</a></li>
+      </ul>
+      <ul class="pull-right">
+        <li><a href="SEEK-Davis-1-Design">Design</a></li>
+        <li><a href="SEEK-Davis-1-Build">Build</a></li>
+        <li>Test</li>
+        <li>Submit to SEEK</li>
+        <li>Help</li>
+      </ul>
+    </div>
+  </div>
+  <div class="container">
+    <div class="build">
+      <!--CHANGE THIS FOR EACH PAGE-->
+      <div class="jumbotron">
+      <h1><b>Build</b></h1>
+      <h3><b>How to test the mutations in the lab using the 5 day approach</b></h3>
+      </div>
+    </div>
+  </div>
+  <div class="build-nav">
+    <ul align="center">
+      <li><a href="SEEK-Davis-1-Build-Day-1">DAY 1: Transformation</a></li>
+      <li><a href="SEEK-Davis-1-Build-Day-2">DAY 2: Suspension</a></li>
+      <li><a href="SEEK-Davis-1-Build-Day-3">Day 3: Expression</a></li>
+      <li><a href="SEEK-Davis-1-Build-Day-4">Day 4: Purification</a></li>
+      <li><a href="SEEK-Davis-1-Build-Day-5">Day 5: Analysis</a></li>
+    </ul>
+  </div>
+</body>
+</html>
