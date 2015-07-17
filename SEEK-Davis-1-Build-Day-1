@@ -17,7 +17,7 @@
       </ul>
       <ul class="pull-right">
         <li><a href="SEEK-Davis-1-Design">Design</a></li>
-        <li><a href="SEEK-Davis-1-Build">Build</a></li>
+        <li><a href="SEEK-Davis-1-Build-Day-1">Build</a></li>
         <li>Test</li>
         <li>Submit to SEEK</li>
         <li>Help</li>
@@ -72,6 +72,6 @@
         </ol>
     </div>
   </div>
-  <!--This is he end of the protocol div-->
+  <!--This is the end of the protocol div-->
 </body>
 </html>
