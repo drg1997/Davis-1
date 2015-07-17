@@ -17,7 +17,7 @@
       </ul>
       <ul class="pull-right">
         <li><a href="SEEK-Davis-1-Design">Design</a></li>
-        <li><a href="SEEK-Davis-1-Build">Build</a></li>
+        <li><a href="SEEK-Davis-1-Build-Day-1">Build</a></li>
         <li>Test</li>
         <li>Submit to SEEK</li>
         <li>Help</li>
@@ -45,13 +45,8 @@
   <!--This is the protocol div-->
   <div class="container">
     <div class="protocol">
-      <h1>Introduction</h1>
-      <p>If you want a printable version of the protocol, click this link:<a>THIS IS NOT A REAL LINK YET!!!!</a>You could
-        watch the video of the protocol while looking at a printed version of it.  This protocol uses E.Coli bacteria to
-        transform, express, purify and assy the enzyme ordered in the design phase.  When you are finished with the protocol,          you can input your data to SEEK following the instructions on the <a>SUBMIT to SEEK (NOT A REAL LINK YET!!!!)</a> page.
-        For a high school teaching version of the protocol, click this link <a>NOT A REAL LINK YET!!!!!!!</a></p>
-      <h1>Transformation</h1>
-      <h2><b>Software</b></h2>
+      <h1>Purification</h1>
+      <h2><b>Software NONE OF THIS SHIT IS CORRECT</b></h2>
       <h2><b>Hardware</b></h2>
         <ul>
           <li>Dry bath pre-warmed to 42 C</li>
@@ -72,6 +67,5 @@
         </ol>
     </div>
   </div>
-  <!--This is he end of the protocol div-->
 </body>
 </html>

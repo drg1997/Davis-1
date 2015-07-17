@@ -1,7 +1,5 @@
 /*COLORS LIST
-main color: #7D9F35; USE FOR BACKGROUNDS
-very light green color: #A5F006;
-light green color: #95CA24;
+light green color: #87A153;
 dark green color: #617439; USE FOR TITLES
 very dark green color: #41492F; */
 
@@ -40,11 +38,13 @@ body {
 }
 
 .main .jumbotron h1 {
-  padding-top: 70px;
+  padding-top: 80px;
   font-size: 100px;
 }
 
 .main .jumbotron h3 {
+  font-size: 40px;
+  color: #87A153;
 }
 /*END OF MAIN JUMBOTRON SECTION*/
 
@@ -58,17 +58,28 @@ body {
 .design .jumbotron h1 {
   font-size: 70px;
 }
+
+.design .jumbotron h3 {
+  color: #87A153;
+}
 /*END OF DESIGN JUMBOTRON SECTION*/
 
 /*BUILD JUMBOTRON SECTION*/
 .build .jumbotron {
-  background-image: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url(http://vignette2.wikia.nocookie.net/foldit/images/d/d0/Foldit_1323441653.png/revision/latest?cb=20111209144236);
+  background-image: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url(http://www.geneticliteracyproject.org/wp-content/uploads/2014/09/e.coli-ed01.jpg);
   color: white;
-  padding: 60px;
+  padding-top: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 9px;
 }
 
 .build .jumbotron h1 {
   font-size: 70px;
+}
+
+.build .jumbotron h3 {
+  color: #87A153;
 }
 /*END OF BUILD JUMBOTRON SECTION*/
 
@@ -77,8 +88,8 @@ p {
 }
 
 .col-md-4 h2 {
-  background-color: #7D9F35;
-  border-radius: 5px;
+  background-color: #617439;
+  border-radius: 10px;
   color: white;
 }
 
@@ -86,10 +97,32 @@ h2 {
   color: #617439;
 }
 
+/*build-nav*/
 .build-nav li {
   display: inline;
-  font-size: 20px;
+  font-size: 30px;
   text-transform: uppercase;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 55px;
+  padding-right: 55px;
+  background-color: #41492F;
+  border-radius: 10px;
+}
+
+
+.build-nav a {
+  color: white;
+}
+
+.build-nav a:hover {
+  text-decoration: none;
+}
+/*END build-nav*/
+
+.protocol h1 {
+  font-size: 70px;
+  color: #41492F;
+}
+
+.protocol li {
+  font-size: 20px;
 }

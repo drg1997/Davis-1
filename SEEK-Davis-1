@@ -17,7 +17,7 @@
       </ul>
       <ul class="pull-right">
         <li><a href="SEEK-Davis-1-Design">Design</a></li>
-        <li><a href="SEEK-Davis-1-Build">Build</a></li>
+        <li><a href="SEEK-Davis-1-Build-Day-1">Build</a></li>
         <li>Test</li>
         <li>Submit to SEEK</li>
         <li>Help</li>
@@ -36,8 +36,8 @@
   <div class="container">
     <h2><b>Welcome to SEEK</b></h2>
     <p>The Standardized Enzyme Engineering Database is a program designed to make Enzyme Engineering accessible.
-        The Goal of this project is to create a Database of the effects of mutations on the Enzymes Beta-Glucosidase.
-        BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH</p>
+      The Goal of this project is to create a Database of the effects of mutations on the Enzymes Beta-Glucosidase.
+      BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH BLAH</p>
   </div>
   <div class="container">
     <div class="col-md-4">
